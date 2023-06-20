@@ -1,0 +1,4 @@
+repository "Procedural Skybox@gamecreation_2_23spring@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
